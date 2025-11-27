@@ -60,7 +60,7 @@ ${itemsText}
 🏷️ Total Amount: ₹${totalAmount}
     `;
 
-    const whatsappLink = `https://wa.me/919597343176?text=${encodeURIComponent(
+    const whatsappLink = `https://wa.me/917092934160?text=${encodeURIComponent(
       message
     )}`;
     window.open(whatsappLink, "_blank");
